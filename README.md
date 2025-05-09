@@ -102,7 +102,14 @@ Deployed Application (**required**): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/54bd0da717e04d0aac99e2f4b6739981?sid=d31e835d-9136-4448-bc27-2d41e29bdc3c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/54bd0da717e04d0aac99e2f4b6739981">
+      <p>Flixster - 9 May 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/54bd0da717e04d0aac99e2f4b6739981">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/54bd0da717e04d0aac99e2f4b6739981-efac55477c736f94-full-play.gif">
+    </a>
+  </div>
 
 ### Reflection
 
